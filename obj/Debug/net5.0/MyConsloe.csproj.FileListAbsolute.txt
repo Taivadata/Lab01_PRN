@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.exe
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.deps.json
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.runtimeconfig.json
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.dll
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\bin\Debug\net5.0\MyConsloe.pdb
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.AssemblyInfo.cs
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.dll
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\refint\MyConsloe.dll
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.pdb
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\MyConsloe.genruntimeconfig.cache
+C:\Users\PC\Desktop\ChuyenNganhKy5\PRN211\Code_C#_VSCode\MyConsloe\obj\Debug\net5.0\ref\MyConsloe.dll
